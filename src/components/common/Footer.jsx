@@ -20,7 +20,7 @@ const Footer = ({ isAuthenticated }) => {
         <div className="flex items-center gap-6">
           {/* GitHub Link */}
           <a
-            href="https://github.com/your-github-username"
+            href="https://github.com/Asmamaw-kas"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 hover:text-blue-700 transition-colors"
@@ -31,7 +31,7 @@ const Footer = ({ isAuthenticated }) => {
 
           {/* About Developer */}
           <a
-            href="/about-dev"
+            href="https://asmamaw-kas.github.io/my-portfolio/"
             className="flex items-center gap-2 hover:text-blue-700 transition-colors"
           >
             <User className="h-5 w-5" />
