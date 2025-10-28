@@ -17,7 +17,7 @@ import PhotoDetail from './pages/PhotoDetail';
 import DocumentDetail from './pages/DocumentDetail';
 import RepresentativeRequest from './components/auth/RepresentativeRequest';
 import ForgotPassword from './components/auth/ForgotPassword';
-import './app.css';
+
 
 function App() {
   return (
